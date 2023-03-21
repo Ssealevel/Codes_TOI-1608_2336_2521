@@ -4,8 +4,7 @@ This repository contains the brown dwarf list as well as some codes used in [Lin
 
 ## BD list
 
-The transiting BD list is in "BD_list_2022-10.txt". This list is based on the list in [Grieves et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.127G/abstract) and add NGTS-19b ([Acton et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.2741A/abstract)), 
-TOI-1278 B ([Artigau et al. 2021](https://ui.adsabs.harvard.edu/abs/2021AJ....162..144A/abstract)), TOI-2119b ([Cañas et al. 2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163...89C/abstract); [Carmichael et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4944C/abstract)), TIC-320687387 B ([Gill et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.1785G/abstract)), 
+The transiting BD list is in "BD_list_2022-10.txt". This list is based on the list in [Grieves et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.127G/abstract) and add NGTS-19b ([Acton et al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.2741A/abstract)), TOI-2119b ([Cañas et al. 2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163...89C/abstract); [Carmichael et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4944C/abstract)), TIC-320687387 B ([Gill et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.1785G/abstract)), 
 TOI-629b, TOI-1982b, and TOI-2543b ([Psaridi et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..94P/abstract)). I also add the targets of our paper to this list.
 
 ## Plot BD's inflation
