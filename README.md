@@ -10,16 +10,16 @@ TOI-629b, TOI-1982b, and TOI-2543b ([Psaridi et al. 2022](https://ui.adsabs.harv
 ## Plot inflation
 
 The codes to fit the correlation between the flux and the radius for brown dwarfs and for low-mass stars and plot the Figure 12 and 13 are 
-in the folder "Plot_inflation". The planet list "PS_2022.05.29_05.24.22.csv" used in these codes is from [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).
-The object list used in this folder does **NOT** include the targets of our paper.
+in the folder "Plot_BD_inflation". The planet list "PS_2022.05.29_05.24.22.csv" used in these codes is from [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/).
+The BD and low mass star list used in this folder does **NOT** include the targets of our paper.
 
 ## Plot model
 
-The codes to plot the Figure 11 are in the folder "Plot_model". The "*Gyr.txt" files in this folder is modified 
+The codes to plot the Figure 11 are in the folder "Plot_BD_model". The "*Gyr.txt" files in this folder is modified 
 from the files provided by [Baraffe et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015A%26A...577A..42B/abstract). The folder "phillips2020" is from [Phillips et al. (2020b)](https://ui.adsabs.harvard.edu/abs/2020A%26A...637A..38P/abstract). 
-The object list used in this folder does **NOT** include the targets of our paper.
+The BD and low mass star list used in this folder does **NOT** include the targets of our paper.
 
 ## Plot eccentricity
 
-The codes to plot the Figure 14 are in the folder "Plot_e". 
-The object list used in this folder does **NOT** include the targets of our paper.
+The codes to plot the Figure 14 are in the folder "Plot_BD_e". 
+The BD and low mass star list used in this folder does **NOT** include the targets of our paper.
